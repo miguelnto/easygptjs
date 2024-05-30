@@ -4,13 +4,13 @@ EasyGPT provides free access to text generation models, now in JavaScript!
 
 > No API key required.
 
-Installation
+# Installation
 
 ```bash
 npm install freegptjs
 ```
 
-Usage
+# Usage
 
 ```js
 import EasyGPT35 from "easygptjs";
