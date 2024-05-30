@@ -7,7 +7,7 @@ EasyGPT provides free access to text generation models, now in JavaScript!
 # Installation
 
 ```bash
-npm install freegptjs
+npm install easygptjs
 ```
 
 # Usage
